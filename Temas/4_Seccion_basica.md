@@ -10,7 +10,7 @@ VALUES("Moises","Mendoza",25)**
 Veremos la tabla
 
 |name|age|lastname|
-|---|---|---|---|
+|---|---|---|
 |Moises|Mendoza|25|
 |Aaron| Mendoza|22|
 |Alejandra|none|17|
@@ -27,8 +27,7 @@ Sin embargo no lo podemos crear ahora por lo que tendremos que eliminar los regi
 **DELETE FROM users**
 
 |name|age|lastname|
-|---|---|---|---|
-
+|---|---|---|
     AI: auto incremento
     PK: Primary Key
 

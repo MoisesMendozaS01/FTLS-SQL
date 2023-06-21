@@ -13,6 +13,7 @@
     4. Modelo ER (Con Notación de Chen)
     5. Ejercicios con Diagramas ER
 
+
 ##### [INSTALACIÓN Y CONFIGURACIÓN DEL ENTORNO ](./Temas/2_installaci%C3%B3n.md)
 
     1. Instalación del Gestor (DBMS) en WINDOWS
@@ -30,6 +31,8 @@
     7.Insertar registros con INSERT
     8.Consultas (Queries)
     9.Cláusula SELECT
+
+##### [Examples](./Examples/seccion_principiante.ipynb)
 
 ##### [SECCIÓN BÁSICA](./Temas/4_Seccion_basica.md)
     1- Identificadores
